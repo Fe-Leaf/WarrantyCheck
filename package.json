@@ -1,6 +1,6 @@
 {
   "name": "warrantycheck",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "CLI tool for checking device warranty status across Dell, HP, and Lenovo",
   "keywords": [
     "warranty",
@@ -12,8 +12,8 @@
     "device-management"
   ],
   "author": "ironleaf",
-  "license": "SEE LICENSE IN LICENSE",
-  "homepage": "https://feleaf.gumroad.com/l/warrantycheck-pro",
+  "license": "MIT",
+  "repository": "https://github.com/Fe-Leaf/WarrantyCheck",
   "engines": {
     "node": ">=18"
   },
