@@ -153,4 +153,4 @@ warrantycheck config show
 
 IronLeaf builds developer tools and automation for infrastructure teams. If you need something that doesn't exist yet — a custom CLI, an n8n node, an MCP server, an API integration, or a workflow that ties your stack together — I'm available for hire.
 
-→ [Email me](ironleaf-dev@zohomail.com)
+→ [Email me](mailto:ironleaf-dev@zohomail.com)
