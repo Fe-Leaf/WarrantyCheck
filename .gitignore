@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# macOS
+.DS_Store
+
+# Claude Code local config
+.claude/
+
+# Test/scratch files
+*.csv
+*.xlsx
+
+# Environment / secrets
+.env
+.env.*
+
+# Internal docs
+CLAUDE.md
+warranty-cli-spec.md
+
+# Editor
+.vscode/
+.idea/
